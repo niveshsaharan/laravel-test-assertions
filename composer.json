@@ -1,9 +1,13 @@
 {
-    "name": "jasonmccreary/laravel-test-assertions",
+    "name": "centire/laravel-test-assertions",
     "description": "A set of helpful assertions when testing Laravel applications.",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Nivesh",
+            "email": "hey@nive.sh"
+        },
         {
             "name": "Jason McCreary",
             "email": "jason@pureconcepts.net"
