@@ -8,7 +8,7 @@ Your application must be running the latest LTS version (5.5) or higher and usin
 You may install these assertions with Composer by running:
 
 ```sh
-composer require --dev jasonmccreary/laravel-test-assertions
+composer require --dev centire/laravel-test-assertions
 ```
 
 Afterwards, add the trait to your base `TestCase` class:
